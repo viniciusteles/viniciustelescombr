@@ -33,7 +33,7 @@ Eu e [minha esposa][pati] viajamos pelo mundo permanentemente desde 2010. A gent
 [w]: http://worktravelandstudyabroad.tv/
 [Improve It]: http://improveit.com.br
 [Be on the Net]: http://beonthe.net
-[da]: http://blog.viniciusteles.com
+[da]: http://viniciusteles.com/blog
 [f]: http://www.flickr.com/photos/viniciusteles/sets/
 [b]: http://improveit.com.br/xp/livroxp
 [a]: http://pt.wikipedia.org/wiki/Desenvolvimento_%C3%A1gil_de_software
