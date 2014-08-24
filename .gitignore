@@ -5,6 +5,7 @@
 .pygments-cache
 .rbenv-version
 _deploy
+._*
 public
 sass.old
 source.old

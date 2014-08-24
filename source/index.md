@@ -11,6 +11,26 @@ Cursei a [graduação][u] e o [mestrado][g] em Ciência da Computação na [Univ
 
 Eu e [minha esposa][pati] viajamos pelo mundo permanentemente desde 2010. A gente escreve sobre essa experiência no [Casal Partiu][cp]. 
 
+##Material útil
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/162888124&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/lciHf4EvFPU?list=PLaXBS0KXfB4PzW9cH4F3dGBTrrpAwjoab" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/mJOHG2ukVfE" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/Zyzcosdan8I?list=UU9kbVrw83HL_EXGmUeEMd7g" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="480" src="//www.youtube.com/embed/3VXz506gn8c" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/videoseries?list=PL66584479A168CC00" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/videoseries?list=PL949708EF12616910" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/videoseries?list=PLA0BCA60C6923618E" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="480" src="//www.youtube.com/embed/oWxZ8vjQys4" frameborder="0" allowfullscreen></iframe>
+
 ##Links úteis
 
 * Empresa: [Improve It][]
