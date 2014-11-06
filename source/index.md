@@ -13,7 +13,7 @@ Eu e [minha esposa][pati] viajamos pelo mundo permanentemente desde 2010. A gent
 
 ##Material útil
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/162888124&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/4261724" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//pt.slideshare.net/viniciusteles/fuja-da-escravido-antes-que-ela-te-alcance-4261724" title="Fuja da escravidão antes que ela te alcance" target="_blank">Fuja da escravidão antes que ela te alcance</a> </strong> from <strong><a href="//www.slideshare.net/viniciusteles" target="_blank">Vinicius Teles</a></strong> </div>
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/lciHf4EvFPU?list=PLaXBS0KXfB4PzW9cH4F3dGBTrrpAwjoab" frameborder="0" allowfullscreen></iframe>
 
