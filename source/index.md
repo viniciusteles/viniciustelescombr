@@ -17,6 +17,8 @@ Eu e [minha esposa][pati] viajamos pelo mundo permanentemente desde 2010. A gent
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/lciHf4EvFPU?list=PLaXBS0KXfB4PzW9cH4F3dGBTrrpAwjoab" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="640" height="360" src="//www.youtube.com/embed/Cxu7UL1sy1w?list=PL2wuXvTPJ0_njKgQRpp9wGwakt6NpQE4B" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="640" height="360" src="//www.youtube.com/embed/mJOHG2ukVfE" frameborder="0" allowfullscreen></iframe>
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/Zyzcosdan8I?list=UU9kbVrw83HL_EXGmUeEMd7g" frameborder="0" allowfullscreen></iframe>
