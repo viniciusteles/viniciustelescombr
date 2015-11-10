@@ -7,11 +7,17 @@ Sou um empreendedor, [desenvolvedor de software][sd] e [nômade][cp]. Fundei min
 
 [Minha empresa][Improve It] lançou seu primeiro produto comercial, o [Be on the Net][], em 2008. A partir de então a empresa passou a se dedicar exclusivamente à manutenção e expanção do [Be on the Net][].
 
+Atualmente, dedico a maior parte do tempo ao meu projeto mais recente, a [Noiva Inteligente][ani].
+
 Cursei a [graduação][u] e o [mestrado][g] em Ciência da Computação na [Universidade Federal do Rio de Janeiro][UFRJ].
 
 Eu e [minha esposa][pati] viajamos pelo mundo permanentemente desde 2010. A gente escreve sobre essa experiência no [Casal Partiu][cp]. 
 
 ##Material útil
+
+<iframe width="600" height="250" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/202476306&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+<iframe width="600" height="250" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/202443446&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/4261724" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//pt.slideshare.net/viniciusteles/fuja-da-escravido-antes-que-ela-te-alcance-4261724" title="Fuja da escravidão antes que ela te alcance" target="_blank">Fuja da escravidão antes que ela te alcance</a> </strong> from <strong><a href="//www.slideshare.net/viniciusteles" target="_blank">Vinicius Teles</a></strong> </div>
 
@@ -76,3 +82,4 @@ Eu e [minha esposa][pati] viajamos pelo mundo permanentemente desde 2010. A gent
 [ev]: http://viniciusteles.com
 [veb]: http://blog.improveit.com.br/articles/2010/11/22/mudanca-para-argentina-parte-1-por-que-nao
 [fbcp]: https://www.facebook.com/CasalPartiu
+[ani]: https://noivainteligente.com.br
