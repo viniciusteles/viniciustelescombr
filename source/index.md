@@ -3,15 +3,13 @@ layout: page
 ---
 # Sobre
 
-Sou um empreendedor, [desenvolvedor de software][sd] e [nômade][cp]. Fundei minha empresa, a [Improve It][], em 2001. Ela dedicou-se à consultoria em [desenvolvimento ágil de software][a] por muitos anos e eu atuava como coach e mentor de equipes que usavam [Extreme Programming][XP] para fazer software. Escrevi um [livro][b] sobre [Extreme Programming][XP] que foi publicado no Brasil em 2004.
+Sou um empreendedor, [nômade digital][nd], autor e [desenvolvedor de software][sd]. Fundei minha empresa, a [Improve It][], em 2001. Ela dedicou-se à consultoria em [desenvolvimento ágil de software][a] por muitos anos e eu atuava como coach e mentor de equipes que usavam [Extreme Programming][XP] para fazer software. Escrevi um [livro][b] sobre [Extreme Programming][XP] que foi publicado no Brasil em 2004.
 
 [Minha empresa][Improve It] lançou seu primeiro produto comercial, o [Be on the Net][], em 2008. A partir de então a empresa passou a se dedicar exclusivamente à manutenção e expanção do [Be on the Net][].
 
-Atualmente, dedico a maior parte do tempo ao meu projeto mais recente, a [Noiva Inteligente][ani].
+Em 2010, tornei-me [nômade digital][nd] com minha esposa, [Patricia Figueira][pati]. Nós nos tornamos o [Casal Partiu][cp], o primeiro casal de [nômades digitais][nd] do Brasil.
 
 Cursei a [graduação][u] e o [mestrado][g] em Ciência da Computação na [Universidade Federal do Rio de Janeiro][UFRJ].
-
-Eu e [minha esposa][pati] viajamos pelo mundo permanentemente desde 2010. A gente escreve sobre essa experiência no [Casal Partiu][cp]. 
 
 ##Material útil
 
@@ -41,7 +39,7 @@ Eu e [minha esposa][pati] viajamos pelo mundo permanentemente desde 2010. A gent
 
 ##Links úteis
 
-* Empresa: [Improve It][]
+* [Ferramenta de autoavaliação][nd]: você tem o que é preciso para ser [nômade digital][nd]?
 * Produto: [Be on the Net][]
 * Livro: [Extreme Programming][b]
 * Viagens: [Casal Partiu][cp]
@@ -51,10 +49,12 @@ Eu e [minha esposa][pati] viajamos pelo mundo permanentemente desde 2010. A gent
 ##Contato
 
 * Email: info@viniciusteles.com.br
-* Twitter: [@viniciusteles][t]
 * Facebook: [Vinicius Teles][fb] e [Casal Partiu][fbcp]
+* Instagram: [Casal Partiu][insta]
+* Twitter: [@viniciusteles][t]
 * LinkedIn: [Vinícius Teles][in]
 
+[nd]: http://nomadedigital.com.br
 [cp]: http://www.casalpartiu.com.br
 [atv]: http://abrirempresa.tv
 [sd]: https://github.com/viniciusteles
@@ -83,3 +83,4 @@ Eu e [minha esposa][pati] viajamos pelo mundo permanentemente desde 2010. A gent
 [veb]: http://blog.improveit.com.br/articles/2010/11/22/mudanca-para-argentina-parte-1-por-que-nao
 [fbcp]: https://www.facebook.com/CasalPartiu
 [ani]: https://noivainteligente.com.br
+[insta]: https://www.instagram.com/casalpartiu/
