@@ -5,7 +5,7 @@ layout: page
 
 Sou um empreendedor, [nômade digital][nd], autor e [desenvolvedor de software][sd]. Fundei minha empresa, a [Improve It][], em 2001. Ela dedicou-se à consultoria em [desenvolvimento ágil de software][a] por muitos anos e eu atuava como coach e mentor de equipes que usavam [Extreme Programming][XP] para fazer software. Escrevi um [livro][b] sobre [Extreme Programming][XP] que foi publicado no Brasil em 2004.
 
-[Minha empresa][Improve It] lançou seu primeiro produto comercial, o [Be on the Net][], em 2008. A partir de então a empresa passou a se dedicar exclusivamente à manutenção e expanção do [Be on the Net][].
+[Minha empresa][Improve It] lançou seu primeiro produto comercial, o [Be on the Net][], em 2008. A partir de então a empresa passou a se dedicar exclusivamente à manutenção do [Be on the Net][].
 
 Em 2010, tornei-me [nômade digital][nd] com minha esposa, [Patricia Figueira][pati]. Nós nos tornamos o [Casal Partiu][cp], o primeiro casal de [nômades digitais][nd] do Brasil.
 
