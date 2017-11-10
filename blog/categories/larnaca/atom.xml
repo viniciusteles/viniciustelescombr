@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: larnaca | Vinícius Teles]]></title>
-  <link href="http://viniciusteles.com.br/blog/categories/larnaca/atom.xml" rel="self"/>
-  <link href="http://viniciusteles.com.br/"/>
-  <updated>2017-11-10T12:21:21-02:00</updated>
-  <id>http://viniciusteles.com.br/</id>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/blog/categories/larnaca/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/"/>
+  <updated>2017-11-10T12:24:45-02:00</updated>
+  <id>http://viniciusteles.github.io/viniciustelescombr/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Você conhece Larnaca?]]></title>
-    <link href="http://viniciusteles.com.br/voce-conhece-larnaca"/>
+    <link href="http://viniciusteles.github.io/viniciustelescombr/voce-conhece-larnaca"/>
     <updated>2012-06-26T00:00:00-03:00</updated>
-    <id>http://viniciusteles.com.br/voce-conhece-larnaca</id>
+    <id>http://viniciusteles.github.io/viniciustelescombr/voce-conhece-larnaca</id>
     <content type="html"><![CDATA[<p>Nunca ouviu falar de Larnaca? Ent&atilde;o, se liga: <p /> <iframe src="http://www.youtube.com/embed/-lBYfDj5d1M?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
 
 ]]></content>

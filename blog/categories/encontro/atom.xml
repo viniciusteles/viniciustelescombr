@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: encontro | Vinícius Teles]]></title>
-  <link href="http://viniciusteles.com.br/blog/categories/encontro/atom.xml" rel="self"/>
-  <link href="http://viniciusteles.com.br/"/>
-  <updated>2017-11-10T12:21:21-02:00</updated>
-  <id>http://viniciusteles.com.br/</id>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/blog/categories/encontro/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/"/>
+  <updated>2017-11-10T12:24:45-02:00</updated>
+  <id>http://viniciusteles.github.io/viniciustelescombr/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Couch Surfing]]></title>
-    <link href="http://viniciusteles.com.br/couch-surfing"/>
+    <link href="http://viniciusteles.github.io/viniciustelescombr/couch-surfing"/>
     <updated>2013-01-07T00:00:00-02:00</updated>
-    <id>http://viniciusteles.com.br/couch-surfing</id>
+    <id>http://viniciusteles.github.io/viniciustelescombr/couch-surfing</id>
     <content type="html"><![CDATA[<p>Sabe quando voc&ecirc; percebe o qu&atilde;o idiota est&aacute; sendo? Esse &eacute; o meu sentimento nos &uacute;ltimos dois dias. Permita-me explicar.</p>
 
 
@@ -60,7 +60,7 @@
 <p>Lamento profundamente pelo tempo perdido, por n&atilde;o tentar usar o <a href="https://www.couchsurfing.org">Couch Surfing</a> antes. Mas, estou maravilhado por termos finalmente ingressado. E Istambul parece ser o lugar perfeito, j&aacute; que a galera usa de verdade e funciona super bem.</p>
 
 
-<p>Voc&ecirc; pode encontrar o <a href="https://www.couchsurfing.org/profile.html">meu perfil</a> no <a href="https://www.couchsurfing.org">Couch Surfing</a> em: <a href="https://www.couchsurfing.org/profile.html">http://www.couchsurfing.org/people/vinicius.m.teles</a>.<img src="http://viniciusteles.com.br/images/cs-meetup.jpg" alt="Couch Surfing" /></p>
+<p>Voc&ecirc; pode encontrar o <a href="https://www.couchsurfing.org/profile.html">meu perfil</a> no <a href="https://www.couchsurfing.org">Couch Surfing</a> em: <a href="https://www.couchsurfing.org/profile.html">http://www.couchsurfing.org/people/vinicius.m.teles</a>.<img src="http://viniciusteles.github.io/viniciustelescombr/images/cs-meetup.jpg" alt="Couch Surfing" /></p>
 
 
 <p />

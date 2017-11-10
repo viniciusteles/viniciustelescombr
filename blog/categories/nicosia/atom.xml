@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: nicosia | Vinícius Teles]]></title>
-  <link href="http://viniciusteles.com.br/blog/categories/nicosia/atom.xml" rel="self"/>
-  <link href="http://viniciusteles.com.br/"/>
-  <updated>2017-11-10T12:21:21-02:00</updated>
-  <id>http://viniciusteles.com.br/</id>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/blog/categories/nicosia/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/"/>
+  <updated>2017-11-10T12:24:45-02:00</updated>
+  <id>http://viniciusteles.github.io/viniciustelescombr/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Muito louco isso, né?]]></title>
-    <link href="http://viniciusteles.com.br/muito-louco-isso-ne"/>
+    <link href="http://viniciusteles.github.io/viniciustelescombr/muito-louco-isso-ne"/>
     <updated>2012-06-27T00:00:00-03:00</updated>
-    <id>http://viniciusteles.com.br/muito-louco-isso-ne</id>
+    <id>http://viniciusteles.github.io/viniciustelescombr/muito-louco-isso-ne</id>
     <content type="html"><![CDATA[<p>Esse v&iacute;deo supostamente &eacute; sobre a nossa breve visita &agrave; Nicosia, capital do Chipre. Mas, provavelmente a coisa mais marcante &eacute; o excesso de vezes em que digo: "muito louco isso, n&eacute;?" :-) <p /> N&atilde;o era meu objetivo fazer isso, mas como se pode observar, aparecer em v&iacute;deo n&atilde;o &eacute; o meu forte. Ent&atilde;o, d&aacute; um desconto e considere que ainda estou treinando. Ou ent&atilde;o, zoa mesmo, porque t&aacute; merecendo. :p <p /> <iframe src="http://www.youtube.com/embed/du_kAPq2mGs?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
 
 ]]></content>

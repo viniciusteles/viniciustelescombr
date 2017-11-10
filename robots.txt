@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://viniciusteles.com.br/sitemap.xml 
+Sitemap: http://viniciusteles.github.io/viniciustelescombr/sitemap.xml 

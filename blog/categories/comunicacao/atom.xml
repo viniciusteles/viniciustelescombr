@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: comunicação | Vinícius Teles]]></title>
-  <link href="http://viniciusteles.com.br/blog/categories/comunicacao/atom.xml" rel="self"/>
-  <link href="http://viniciusteles.com.br/"/>
-  <updated>2017-11-10T12:21:21-02:00</updated>
-  <id>http://viniciusteles.com.br/</id>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/blog/categories/comunicacao/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/"/>
+  <updated>2017-11-10T12:24:45-02:00</updated>
+  <id>http://viniciusteles.github.io/viniciustelescombr/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Problemas de startups]]></title>
-    <link href="http://viniciusteles.com.br/problemas-de-startups"/>
+    <link href="http://viniciusteles.github.io/viniciustelescombr/problemas-de-startups"/>
     <updated>2013-02-20T00:00:00-03:00</updated>
-    <id>http://viniciusteles.com.br/problemas-de-startups</id>
-    <content type="html"><![CDATA[<p><img src="http://viniciusteles.com.br/images/527304360_2852ed007b_z.jpeg" alt="Problemas de startups" /></p>
+    <id>http://viniciusteles.github.io/viniciustelescombr/problemas-de-startups</id>
+    <content type="html"><![CDATA[<p><img src="http://viniciusteles.github.io/viniciustelescombr/images/527304360_2852ed007b_z.jpeg" alt="Problemas de startups" /></p>
 
 
 <p><span style="font-size: x-small;">Photo:&nbsp;</span><a href="http://www.flickr.com/photos/gi/527304360/" style="font-size: x-small;">Gisela Giardino</a><span style="font-size: x-small;">&nbsp;(CC)</span></p>

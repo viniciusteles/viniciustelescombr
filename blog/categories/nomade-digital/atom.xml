@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: nômade digital | Vinícius Teles]]></title>
-  <link href="http://viniciusteles.com.br/blog/categories/nomade-digital/atom.xml" rel="self"/>
-  <link href="http://viniciusteles.com.br/"/>
-  <updated>2017-11-10T12:21:21-02:00</updated>
-  <id>http://viniciusteles.com.br/</id>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/blog/categories/nomade-digital/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/"/>
+  <updated>2017-11-10T12:24:45-02:00</updated>
+  <id>http://viniciusteles.github.io/viniciustelescombr/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Nômade digital: efeitos sobre a produtividade]]></title>
-    <link href="http://viniciusteles.com.br/nomade-digital-efeitos-sobre-a-produtividade"/>
+    <link href="http://viniciusteles.github.io/viniciustelescombr/nomade-digital-efeitos-sobre-a-produtividade"/>
     <updated>2012-11-22T00:00:00-02:00</updated>
-    <id>http://viniciusteles.com.br/nomade-digital-efeitos-sobre-a-produtividade</id>
+    <id>http://viniciusteles.github.io/viniciustelescombr/nomade-digital-efeitos-sobre-a-produtividade</id>
     <content type="html"><![CDATA[<p>Eu e a&nbsp;<a href="http://patriciafigueira.com.br">Pati</a>&nbsp;nos tornamos <a href="http://en.wikipedia.org/wiki/Digital_nomad">n&ocirc;mades digitais</a> h&aacute; uns dois anos. Desde ent&atilde;o, estivemos em dezenas de cidades e pa&iacute;ses mundo afora. Mas, n&atilde;o se trata apenas de lazer. De fato, n&oacute;s estamos trabalhando a maior parte do tempo, de onde quer que estejamos.</p>
 
 

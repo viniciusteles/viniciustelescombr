@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: dívida | Vinícius Teles]]></title>
-  <link href="http://viniciusteles.com.br/blog/categories/divida/atom.xml" rel="self"/>
-  <link href="http://viniciusteles.com.br/"/>
-  <updated>2017-11-10T12:21:21-02:00</updated>
-  <id>http://viniciusteles.com.br/</id>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/blog/categories/divida/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/"/>
+  <updated>2017-11-10T12:24:45-02:00</updated>
+  <id>http://viniciusteles.github.io/viniciustelescombr/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Até que ponto liberdade é importante para desenvolvedores de software?]]></title>
-    <link href="http://viniciusteles.com.br/ate-que-ponto-liberdade-e-importante-para-des"/>
+    <link href="http://viniciusteles.github.io/viniciustelescombr/ate-que-ponto-liberdade-e-importante-para-des"/>
     <updated>2013-01-18T00:00:00-02:00</updated>
-    <id>http://viniciusteles.com.br/ate-que-ponto-liberdade-e-importante-para-des</id>
-    <content type="html"><![CDATA[<p><img src="http://viniciusteles.com.br/images/freedom.jpg" alt="Até que ponto liberdade é importante para desenvolvedores de software?" /></p>
+    <id>http://viniciusteles.github.io/viniciustelescombr/ate-que-ponto-liberdade-e-importante-para-des</id>
+    <content type="html"><![CDATA[<p><img src="http://viniciusteles.github.io/viniciustelescombr/images/freedom.jpg" alt="Até que ponto liberdade é importante para desenvolvedores de software?" /></p>
 
 
 <p>Foto de <a href="http://www.flickr.com/photos/johndrake45/6201369535/">John Drake</a> (<a href="http://creativecommons.org/licenses/by-nd/2.0/deed.pt_BR">CC</a>).</p>

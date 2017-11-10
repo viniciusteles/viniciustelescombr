@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: filosofia | Vinícius Teles]]></title>
-  <link href="http://viniciusteles.com.br/blog/categories/filosofia/atom.xml" rel="self"/>
-  <link href="http://viniciusteles.com.br/"/>
-  <updated>2017-11-10T12:21:21-02:00</updated>
-  <id>http://viniciusteles.com.br/</id>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/blog/categories/filosofia/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.github.io/viniciustelescombr/"/>
+  <updated>2017-11-10T12:24:45-02:00</updated>
+  <id>http://viniciusteles.github.io/viniciustelescombr/</id>
   <author>
     <name><![CDATA[Vinícius Teles]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Espírito de prorrogação]]></title>
-    <link href="http://viniciusteles.com.br/espirito-de-prorrogacao"/>
+    <link href="http://viniciusteles.github.io/viniciustelescombr/espirito-de-prorrogacao"/>
     <updated>2012-06-14T00:00:00-03:00</updated>
-    <id>http://viniciusteles.com.br/espirito-de-prorrogacao</id>
+    <id>http://viniciusteles.github.io/viniciustelescombr/espirito-de-prorrogacao</id>
     <content type="html"><![CDATA[<p>E se um m&eacute;dico lhe contasse que s&oacute; lhe resta uma semana? Qual seria sua maior prioridade? Esse &eacute; um exerc&iacute;cio de pensamento que eu e a Pati fazemos constantemente e &eacute; ele que nos ajuda a definir nossas prioridades.</p>
 
 <p />
