@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: africa | Vinícius Teles]]></title>
+  <link href="http://viniciusteles.com.br/blog/categories/africa/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.com.br/"/>
+  <updated>2017-11-10T12:21:21-02:00</updated>
+  <id>http://viniciusteles.com.br/</id>
+  <author>
+    <name><![CDATA[Vinícius Teles]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Reconhecimento de Luxor]]></title>
+    <link href="http://viniciusteles.com.br/reconhecimento-de-luxor"/>
+    <updated>2012-06-12T00:00:00-03:00</updated>
+    <id>http://viniciusteles.com.br/reconhecimento-de-luxor</id>
+    <content type="html"><![CDATA[<p>Fizemos um pequeno reconhecimento de Luxor e a experi&ecirc;ncia foi um tanto complicada. Mas, acho que vencemos o desafio. :-)</p>
+
+
+<p>&nbsp;</p>
+
+
+<p><iframe src="http://www.youtube.com/embed/RooRN_r8BkQ?wmode=transparent" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>
+
+
+<p>&nbsp;</p>
+
+]]></content>
+  </entry>
+  
+</feed>
